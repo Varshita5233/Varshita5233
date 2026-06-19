@@ -1,16 +1,90 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Varshita Rajana</h1>
+<h3 align="center">DevOps Engineer | HashiCorp Certified: Terraform Associate (004) | AWS Certified</h3>
 
-<!--
-**Varshita5233/Varshita5233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Terraform-007ACC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I'm a **DevOps Engineer** with **4 years of experience** building and operating production-grade cloud platforms for a **Fortune 20 telecom client (Verizon)**. I thrive on automation, zero-downtime deployments, and cost-optimization.
+
+- 🌱 I’m currently exploring advanced Kubernetes operators and SRE best practices.
+- 👯 I’m looking to collaborate on **cloud-native automation** and **DevSecOps** projects.
+- 💬 Ask me about **AWS, Terraform, Kubernetes, Jenkins, and Python scripting**.
+- 📫 Reach me at: **varshita.rajana2001@gmail.com**
+- 📄 Know about my experiences: **[LinkedIn](https://linkedin.com/in/varshita2181)**
+
+---
+
+### 🏆 Key Impact Metrics
+
+- ⚡ **Reduced infrastructure setup time by 60%** using reusable Terraform modules across multi-environment AWS architectures.
+- 📦 **Cut container image sizes by 40%** via multi-stage Docker builds, speeding up deployments and lowering ECR costs.
+- 🛡️ **Triaged 20+ high-severity vulnerabilities** before production by implementing mandatory DevSecOps gates (SonarQube, Trivy, Black Duck).
+- 📊 **Manage 10GB+ logs/day** across 15+ microservices using the ELK Stack for proactive anomaly detection and faster RCAs.
+- 🔄 **Owned 10-15 weekly deployments** via Jenkins CI/CD, ensuring consistent releases across Dev, QA, and Staging.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| **Category**            | **Technologies** |
+|-------------------------|------------------|
+| **☁️ Cloud & IaC**      | AWS (EC2, VPC, IAM, S3, EKS, ALB, ASG, RDS, CloudWatch), Terraform |
+| **🐳 Containers**       | Docker (Multi-stage builds), Kubernetes (EKS), Helm, Blue-Green/Rolling Deployments |
+| **⚙️ CI/CD**            | Jenkins, Maven, GitHub Webhooks, REST APIs |
+| **🔒 DevSecOps**        | SonarQube, Trivy, Black Duck, Pipeline Security Gates, Vulnerability Triage |
+| **📊 Observability**    | ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana, CloudWatch |
+| **💻 Languages**        | Python (subprocess, requests, JSON/YAML automation), Java (Spring Boot), YAML, Bash |
+| **🛠️ Tools**            | Git, GitHub, GitLab, Postman, JIRA, Linux (Ubuntu, Amazon Linux) |
+| **🤖 AI Productivity**  | Claude, ChatGPT, GitHub Copilot, Gemini, DeepSeek |
+
+---
+
+### 🗂️ Featured Project
+
+#### 🔹 Production-Grade EKS CI/CD & Observability Platform
+> *Sole implementer – from IaC to monitoring*
+
+- 🏗️ **Architected** complete AWS EKS infrastructure (VPC, IAM, EKS, ALB, ECR) using reusable Terraform modules.
+- 🔄 **Built** a fully automated Jenkins CI/CD pipeline with GitHub webhooks, integrating SonarQube quality gates and Trivy security scans to block critical vulnerabilities pre-push.
+- 🐳 **Implemented** multi-stage Docker builds (40% size reduction) and deployed workloads on EKS with Blue-Green & Rolling strategies for zero-downtime releases.
+- 📈 **Configured** Prometheus & Grafana with custom alerting dashboards for real-time cluster health and SRE-level visibility.
+
+🔗 **Repository:** [github.com/Varshita5233](https://github.com/Varshita5233)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Varshita5233&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/varshita2181" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:varshita.rajana2001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Varshita5233" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ **Fun fact:** I leverage AI tools (Claude, Copilot, ChatGPT) daily to accelerate scripting, pipeline configuration, and Terraform automation – because smart engineers work smarter, not harder!
