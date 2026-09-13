@@ -16,7 +16,7 @@
 
 I'm a **DevOps Engineer** with **4 years of experience** building and operating production-grade cloud platforms for a **Fortune 20 telecom client (Verizon)**. I thrive on automation, zero-downtime deployments, and cost-optimization.
 
-- 🌱 I’m currently exploring advanced Kubernetes operators and SRE best practices.
+- 🌱 I’m currently exploring advanced Kubernetes operators and DevOps best practices.
 - 👯 I’m looking to collaborate on **cloud-native automation** and **DevSecOps** projects.
 - 💬 Ask me about **AWS, Terraform, Kubernetes, Jenkins, and Python scripting**.
 - 📫 Reach me at: **varshita.rajana2001@gmail.com**
@@ -29,7 +29,6 @@ I'm a **DevOps Engineer** with **4 years of experience** building and operating 
 - ⚡ **Reduced infrastructure setup time by 60%** using reusable Terraform modules across multi-environment AWS architectures.
 - 📦 **Cut container image sizes by 40%** via multi-stage Docker builds, speeding up deployments and lowering ECR costs.
 - 🛡️ **Triaged 20+ high-severity vulnerabilities** before production by implementing mandatory DevSecOps gates (SonarQube, Trivy, Black Duck).
-- 📊 **Manage 10GB+ logs/day** across 15+ microservices using the ELK Stack for proactive anomaly detection and faster RCAs.
 - 🔄 **Owned 10-15 weekly deployments** via Jenkins CI/CD, ensuring consistent releases across Dev, QA, and Staging.
 
 ---
