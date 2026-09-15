@@ -39,7 +39,7 @@ I'm a **DevOps Engineer** with **4 years of experience** building and operating 
 
 ---
 
-🔗 **All of my projects are available at:** [github.com/Varshita5233](https://github.com/Varshita5233)
+🔗 **All of my projects are available at:** [(https://github.com/Varshita5233/Devops_Projects)](https://github.com/Varshita5233/Devops_Projects)
 
 ---
 
