@@ -39,17 +39,7 @@ I'm a **DevOps Engineer** with **4 years of experience** building and operating 
 
 ---
 
-### 🗂️ Featured Project
-
-#### 🔹 Production-Grade EKS CI/CD & Observability Platform
-> *Sole implementer – from IaC to monitoring*
-
-- 🏗️ **Architected** complete AWS EKS infrastructure (VPC, IAM, EKS, ALB, ECR) using reusable Terraform modules.
-- 🔄 **Built** a fully automated Jenkins CI/CD pipeline with GitHub webhooks, integrating SonarQube quality gates and Trivy security scans to block critical vulnerabilities pre-push.
-- 🐳 **Implemented** multi-stage Docker builds (40% size reduction) and deployed workloads on EKS with Blue-Green & Rolling strategies for zero-downtime releases.
-- 📈 **Configured** Prometheus & Grafana with custom alerting dashboards for real-time cluster health and SRE-level visibility.
-
-🔗 **Repository:** [github.com/Varshita5233](https://github.com/Varshita5233)
+🔗 **All of my projects are available at:** [github.com/Varshita5233](https://github.com/Varshita5233)
 
 ---
 
